@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "580026848806",
+    "firebase_url": "https://troyecomputersolutions.firebaseio.com",
+    "project_id": "troyecomputersolutions",
+    "storage_bucket": "troyecomputersolutions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580026848806:android:580401d66f536fd17038e7",
+        "android_client_info": {
+          "package_name": "com.example.user.troyecomputersystems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580026848806-805l2p1ql218qrqc33nd9fr7bvvt8a51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.troyecomputersystems",
+            "certificate_hash": "de50fb341b7888ff3e5dd7d199d9dfe6d323a22a"
+          }
+        },
+        {
+          "client_id": "580026848806-19l11kvar7tt8dgt163ua9qh5jf50ptn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAojANOhE5zLm340LzPH_gVeUuuTMYWjoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580026848806-19l11kvar7tt8dgt163ua9qh5jf50ptn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "917570342217",
+    "firebase_url": "https://troye-computer-systems.firebaseio.com",
+    "project_id": "troye-computer-systems",
+    "storage_bucket": "troye-computer-systems.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917570342217:android:d116a05aceebce9e8e1e98",
+        "android_client_info": {
+          "package_name": "com.example.troyecomputersolutions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917570342217-atic97l151r0ubprfmpu5kphpfb401uh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.troyecomputersolutions",
+            "certificate_hash": "9a4e226257f5017c88a51adf4abbfc26a23786d0"
+          }
+        },
+        {
+          "client_id": "917570342217-t9rvsfvnrgguch7gps2000akl8hvb6hi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.troyecomputersolutions",
+            "certificate_hash": "a6155850ec985910b023eecab1b96c244b36d20f"
+          }
+        },
+        {
+          "client_id": "917570342217-nulkbr5q688ht52j9mruped8u4v50lri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ2mZz_J85HtmMqHHfwcH4OT9S-uk7XWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917570342217-nulkbr5q688ht52j9mruped8u4v50lri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
